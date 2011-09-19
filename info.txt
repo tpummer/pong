@@ -1,0 +1,15 @@
+PONG
+
+Author: Thomas Pummer
+http://www.nullpointer.at
+
+Die Vertonung erfolgte mit Sound Datein von Freesound (http://www.freesound.org)
+
+Anbei eine Nennung der Musikstücke und Künstler
+Datei    -    Originaldateiname        -        Künstler
+back3.ogg     acoustic guitar progression.wav   pitx
+punkt.wav     mailinbox2.wav                    kollege
+back2.ogg     Bounce seq 5.wav                  Flick3r
+wand.wav      cf_FX_doppp_01.mp3                cfork
+balken.wav    wasserflasche37.wav               schluppipuppie
+back1.ogg     Rezzo_3.wav                       Flick3r
