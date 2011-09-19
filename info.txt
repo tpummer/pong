@@ -2,6 +2,7 @@ PONG
 
 Author: Thomas Pummer
 http://www.nullpointer.at
+https://github.com/thefake/pong
 
 Die Vertonung erfolgte mit Sound Datein von Freesound (http://www.freesound.org)
 
